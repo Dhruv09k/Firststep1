@@ -5,7 +5,7 @@ Dhruv09k
 💻 I love building real-world applications using Python, Django, JavaScript, and React  
 📊 Currently learning Data Science and Web APIs  
 🌱 Open to collaborating on software projects and internships  
-📫 Reach me at: dhruv.email@example.com (replace this with real email)
+📫 Reach me at: dhruvmadhu0929@gmail.com
 ---
 🚀 Skills
 - Python, Django, JavaScript, HTML, CSS
@@ -13,4 +13,5 @@ Dhruv09k
 - Git, GitHub, MySQL, SQLite
 ---
 📌 Pinned Projects
-Check out my projects below 👇 once I upload them!
+Check out my projects below 
+👇 once I upload them!
